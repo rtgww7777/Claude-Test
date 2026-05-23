@@ -12,13 +12,14 @@
 
 ### 1. Hero (소개)
 - 이름, 직함 (예: Frontend Developer)
-- 한 줄 자기소개
+- 1 ~2 줄 자기소개
 - 이메일, GitHub, LinkedIn 링크
 - 프로필 사진 (선택)
 
 ### 2. About (자기소개)
-- 3~4문장 분량의 짧은 소개
+- 3~5문장 분량의 짧은 소개
 - 개발 철학 또는 강점
+- 업무 기획능력
 
 ### 3. Skills (기술 스택)
 - 언어: JavaScript, TypeScript, HTML, CSS
